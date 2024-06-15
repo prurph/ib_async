@@ -235,7 +235,7 @@ Integration with PyQt5 or PySide2
 
 .. image:: images/qt-tickertable.png
 
-`This example <https://github.com/ib-api-reloaded/ib_async/blob/master/examples/qt_ticker_table.py>`_
+`This example <https://github.com/ib-api-reloaded/ib_async/blob/main/examples/qt_ticker_table.py>`_
 of a ticker table shows how to integrate both
 realtime streaming and synchronous API requests in a single-threaded
 Qt application.
@@ -258,7 +258,7 @@ Integration with Tkinter
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
 To integrate with the Tkinter event loop, take a look at
-`this example app <https://github.com/ib-api-reloaded/ib_async/blob/master/examples/tk.py>`_.
+`this example app <https://github.com/ib-api-reloaded/ib_async/blob/main/examples/tk.py>`_.
 
 Integration with PyGame
 ^^^^^^^^^^^^^^^^^^^^^^^
